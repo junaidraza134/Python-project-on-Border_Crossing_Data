@@ -7,7 +7,7 @@ I use all the concept of DATA SCIENCE TOOLBOX: PYTHON PROGRAMMING
 
 📊 Summary statistics using .describe().
 
-👀 Previewed data with .head() and .tail().
+👀  Previewed data with .head() and .tail().
 
 ❌ Dropped NA values and checked for missing data.
 
